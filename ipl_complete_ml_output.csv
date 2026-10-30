@@ -1,0 +1,349 @@
+prediction_rank,player_name,avg_runs,avg_innings,avg_strike_rate,avg_batting_average,avg_highest_score,avg_fours,avg_sixes,avg_fifties,avg_hundreds,recent_runs,predicted_runs_2026,prediction_year,model
+1,Virat Kohli,541.5,15.0,132.68,43.17,87.0,48.5,16.83,4.5,0.5,657.0,490.04,2026,Tuned Random Forest
+2,Shubman Gill,561.17,15.17,138.38,40.76,91.5,54.83,17.33,3.67,0.67,650.0,468.15,2026,Tuned Random Forest
+3,SA Yadav,461.17,13.33,158.43,40.57,84.5,49.0,20.17,3.67,0.33,717.0,441.67,2026,Tuned Random Forest
+4,K L Rahul,540.83,12.83,133.75,49.24,100.17,46.0,21.17,4.0,0.67,539.0,426.19,2026,Tuned Random Forest
+5,B Sai Sudharsan,448.25,10.0,141.52,49.68,93.0,45.75,13.0,3.0,0.5,759.0,426.01,2026,Tuned Random Forest
+6,Travis Head,470.5,13.5,177.1,35.84,89.0,57.0,23.5,3.5,0.5,374.0,423.57,2026,Tuned Random Forest
+7,Faf du Plessis,486.67,13.83,140.95,37.5,81.33,46.0,19.17,4.5,0.0,202.0,405.33,2026,Tuned Random Forest
+8,R D Gaikwad,417.0,11.67,137.13,39.63,89.17,38.5,15.83,3.33,0.33,122.0,404.54,2026,Tuned Random Forest
+9,Heinrich Klaasen,471.33,13.0,173.63,44.66,96.33,31.0,29.33,2.33,0.67,487.0,390.62,2026,Tuned Random Forest
+10,Shikhar Dhawan,438.0,12.6,132.1,37.51,91.0,48.8,11.2,2.8,0.4,0.0,379.19,2026,Tuned Random Forest
+11,Jos Buttler,455.67,12.33,148.23,41.72,101.5,44.5,20.67,2.5,1.17,538.0,372.96,2026,Tuned Random Forest
+12,Sanju Samson,415.83,13.83,148.28,35.31,79.5,34.83,21.67,2.67,0.17,285.0,368.65,2026,Tuned Random Forest
+13,David Warner,371.8,11.6,131.76,33.88,74.4,41.0,11.0,3.6,0.0,0.0,367.9,2026,Tuned Random Forest
+14,Priyansh Arya,545.0,18.0,182.3,30.28,103.0,60.0,31.0,3.0,1.0,545.0,367.25,2026,Tuned Random Forest
+15,AB de Villiers,383.5,14.0,153.5,38.35,74.5,28.0,19.5,3.5,0.0,0.0,357.79,2026,Tuned Random Forest
+16,Ishan Kishan,383.83,13.17,140.67,34.13,85.67,37.33,16.67,2.33,0.17,354.0,354.15,2026,Tuned Random Forest
+17,A Mhatre,240.0,7.0,189.0,34.29,94.0,31.0,11.0,1.0,0.0,240.0,347.37,2026,Tuned Random Forest
+18,Kyle Mayers,379.0,13.0,144.1,29.15,73.0,38.0,22.0,4.0,0.0,0.0,339.73,2026,Tuned Random Forest
+19,Shreyas Iyer,410.0,14.0,136.44,35.58,75.0,33.0,17.0,2.8,0.0,604.0,335.39,2026,Tuned Random Forest
+20,Devon Conway,360.0,9.33,138.83,40.4,82.67,38.67,11.33,3.67,0.0,156.0,326.73,2026,Tuned Random Forest
+21,V Suryavanshi,252.0,7.0,206.6,36.0,101.0,18.0,24.0,1.0,1.0,252.0,320.64,2026,Tuned Random Forest
+22,Prabhsimran Singh,223.17,8.5,129.83,19.28,50.33,23.33,11.67,1.33,0.17,599.0,316.1,2026,Tuned Random Forest
+23,Tilak Varma,374.75,12.75,145.75,37.77,67.25,28.25,18.5,2.0,0.0,343.0,313.71,2026,Tuned Random Forest
+24,Ryan Rickelton,388.0,14.0,151.0,29.85,62.0,47.0,17.0,3.0,0.0,388.0,305.51,2026,Tuned Random Forest
+25,Philip Salt,352.0,11.33,173.97,33.46,80.33,40.67,18.67,3.33,0.0,403.0,295.48,2026,Tuned Random Forest
+26,Quinton de Kock,308.83,10.83,135.0,29.9,89.33,28.33,13.33,2.33,0.17,152.0,294.62,2026,Tuned Random Forest
+27,Rishabh Pant,363.4,13.8,136.58,32.4,72.8,33.4,15.2,1.6,0.2,269.0,282.83,2026,Tuned Random Forest
+28,Rohit Sharma,358.0,14.0,134.57,26.47,73.67,34.83,18.0,1.83,0.17,418.0,282.5,2026,Tuned Random Forest
+29,Abishek Porel,220.33,9.67,137.6,21.02,45.33,21.67,9.0,1.0,0.0,301.0,279.98,2026,Tuned Random Forest
+30,Yashasvi Bhupendra Jaiswal,361.0,11.0,141.88,30.46,75.83,43.0,15.33,2.5,0.33,559.0,276.73,2026,Tuned Random Forest
+31,Mitchell Marsh,213.4,7.0,117.8,21.82,58.4,19.0,12.2,1.8,0.2,627.0,273.76,2026,Tuned Random Forest
+32,Devdutt Padikkal,301.0,12.33,120.97,23.64,59.17,31.67,9.33,1.83,0.17,247.0,273.0,2026,Tuned Random Forest
+33,Jonny Bairstow,245.8,8.4,150.14,33.06,76.2,25.0,11.2,1.4,0.2,85.0,272.99,2026,Tuned Random Forest
+34,A Raghuvanshi,231.5,9.0,147.35,28.31,52.0,23.0,8.0,1.0,0.0,300.0,270.99,2026,Tuned Random Forest
+35,Ajinkya Rahane,202.0,8.5,125.53,21.56,48.17,18.33,8.17,1.0,0.0,390.0,268.81,2026,Tuned Random Forest
+36,N Wadhera,239.67,10.33,140.27,25.23,61.0,20.0,13.0,1.33,0.0,369.0,268.72,2026,Tuned Random Forest
+37,Abhishek Sharma,290.67,11.33,155.35,24.59,70.33,28.33,16.0,1.5,0.17,439.0,268.22,2026,Tuned Random Forest
+38,Will Jacks,231.5,9.5,155.55,28.08,76.5,19.0,14.5,1.0,0.5,233.0,263.09,2026,Tuned Random Forest
+39,Riyan Parag,234.33,11.17,132.7,22.83,53.67,15.67,13.67,1.0,0.0,393.0,261.42,2026,Tuned Random Forest
+40,Shane Watson,299.0,11.0,121.1,29.9,83.0,33.0,13.0,2.0,0.0,0.0,261.3,2026,Tuned Random Forest
+41,Hardik Pandya,280.17,13.17,144.5,26.84,57.83,22.5,13.33,1.17,0.0,224.0,261.25,2026,Tuned Random Forest
+42,Aiden Markram,288.0,11.0,132.16,31.61,55.2,22.2,11.4,2.0,0.0,445.0,261.13,2026,Tuned Random Forest
+43,Ayush Badoni,240.75,11.5,136.95,25.99,60.5,18.25,9.5,1.5,0.0,329.0,260.15,2026,Tuned Random Forest
+44,Tristan Stubbs,176.25,7.5,118.08,24.56,33.5,12.75,9.25,0.75,0.0,300.0,259.24,2026,Tuned Random Forest
+45,Rilee Rossouw,210.0,8.5,165.05,28.12,71.5,21.0,11.0,1.0,0.0,0.0,258.59,2026,Tuned Random Forest
+46,Cameron Green,353.5,14.0,151.8,36.76,73.0,31.0,16.0,1.0,0.5,0.0,257.59,2026,Tuned Random Forest
+47,Nitish Rana,294.67,11.83,138.47,25.76,68.83,29.5,13.5,2.0,0.0,217.0,256.88,2026,Tuned Random Forest
+48,Venkatesh Iyer,293.6,11.2,136.0,30.61,70.2,27.2,13.0,2.4,0.2,142.0,256.41,2026,Tuned Random Forest
+49,Shivam Dube,303.17,11.83,141.85,30.42,59.0,17.83,19.83,1.67,0.0,357.0,253.45,2026,Tuned Random Forest
+50,Aniket Verma,236.0,12.0,166.2,26.22,74.0,12.0,20.0,1.0,0.0,236.0,248.49,2026,Tuned Random Forest
+51,Marcus Stoinis,258.83,12.33,150.47,26.21,64.5,20.67,14.67,1.33,0.17,160.0,245.36,2026,Tuned Random Forest
+52,Dhruv Chand Jurel,226.67,11.67,155.77,26.09,53.33,17.0,12.67,1.33,0.0,333.0,245.02,2026,Tuned Random Forest
+53,Mayank Agarwal,248.33,8.83,134.78,27.72,68.83,26.0,8.0,1.33,0.17,95.0,244.04,2026,Tuned Random Forest
+54,HC Brook,190.0,11.0,123.4,21.11,100.0,23.0,4.0,0.0,1.0,0.0,243.79,2026,Tuned Random Forest
+55,Sherfane Rutherford,162.0,6.5,111.65,24.42,37.0,11.5,9.5,0.0,0.0,291.0,242.74,2026,Tuned Random Forest
+56,Chris Gayle,240.5,8.5,131.2,31.29,72.5,18.0,15.5,1.5,0.0,0.0,240.93,2026,Tuned Random Forest
+57,K Nithish Kumar Reddy,242.5,11.0,130.95,28.21,54.0,15.5,12.5,1.0,0.0,182.0,239.25,2026,Tuned Random Forest
+58,Rinku Singh,206.6,8.8,140.12,27.52,36.8,16.4,10.8,0.8,0.0,206.0,238.55,2026,Tuned Random Forest
+59,Axar Patel,186.67,10.17,134.08,25.35,43.17,13.83,9.83,0.5,0.0,263.0,238.31,2026,Tuned Random Forest
+60,Nicholas Pooran,354.17,13.33,162.2,33.71,66.17,24.67,25.5,2.33,0.0,524.0,237.66,2026,Tuned Random Forest
+61,Jason Roy,217.5,6.5,137.8,32.81,60.5,28.5,6.5,1.5,0.0,0.0,237.47,2026,Tuned Random Forest
+62,Ravindra Jadeja,222.17,11.5,142.85,36.75,49.5,17.5,8.67,0.83,0.0,301.0,237.38,2026,Tuned Random Forest
+63,Josh Inglis,278.0,11.0,162.6,30.89,73.0,26.0,16.0,1.0,0.0,278.0,237.31,2026,Tuned Random Forest
+64,Rachin Ravindra,206.5,9.0,144.55,23.04,63.0,20.0,8.0,1.0,0.0,191.0,236.03,2026,Tuned Random Forest
+65,Ashutosh Sharma,196.5,9.0,163.95,26.25,63.5,12.0,14.0,1.0,0.0,204.0,233.16,2026,Tuned Random Forest
+66,David Miller,245.4,11.2,135.3,33.22,56.8,18.8,10.2,0.8,0.0,153.0,231.17,2026,Tuned Random Forest
+67,Rajat Patidar,277.75,9.5,147.05,31.91,65.5,19.0,17.0,2.25,0.25,312.0,230.9,2026,Tuned Random Forest
+68,R A Tripathi,255.5,10.83,132.3,25.03,63.83,25.83,9.67,1.33,0.0,55.0,229.01,2026,Tuned Random Forest
+69,Sunil Narine,168.17,10.67,147.88,15.26,45.33,16.0,12.0,0.67,0.17,246.0,227.27,2026,Tuned Random Forest
+70,Shimron Hetmeyer,232.0,12.17,155.22,29.72,48.67,14.83,14.33,0.67,0.0,239.0,227.23,2026,Tuned Random Forest
+71,Liam Livingstone,196.2,8.6,144.66,23.58,56.2,12.8,14.0,1.4,0.0,112.0,227.08,2026,Tuned Random Forest
+72,Shashank Singh,257.67,11.0,155.0,36.02,51.33,18.67,14.33,1.67,0.0,350.0,226.4,2026,Tuned Random Forest
+73,Andre Russell,208.5,10.33,160.93,24.26,52.0,15.0,17.17,0.67,0.0,167.0,225.99,2026,Tuned Random Forest
+74,M S Dhoni,167.83,11.83,147.4,29.08,35.67,13.0,9.17,0.17,0.0,196.0,224.14,2026,Tuned Random Forest
+75,Glenn Maxwell,237.0,11.17,136.25,22.11,50.0,21.33,11.67,2.0,0.0,48.0,223.02,2026,Tuned Random Forest
+76,Dinesh Karthik,237.6,14.2,152.52,25.56,55.4,21.8,12.0,0.8,0.0,0.0,222.99,2026,Tuned Random Forest
+77,A T Rayudu,262.0,11.75,135.15,27.29,62.0,20.25,13.25,1.0,0.0,0.0,222.1,2026,Tuned Random Forest
+78,Tim David,169.2,8.8,150.3,30.02,37.4,10.8,12.0,0.2,0.0,187.0,221.65,2026,Tuned Random Forest
+79,Naman Dhir,196.0,9.5,179.9,27.42,54.0,18.0,11.5,0.5,0.0,252.0,221.39,2026,Tuned Random Forest
+80,Manish Pandey,183.17,7.0,124.65,33.64,53.17,14.5,6.67,1.17,0.0,92.0,221.18,2026,Tuned Random Forest
+81,J M Sharma,247.75,11.75,156.95,25.66,52.5,19.25,15.5,0.25,0.0,261.0,219.76,2026,Tuned Random Forest
+82,Sam Curran,180.4,9.0,144.0,23.86,58.4,14.4,7.6,1.0,0.0,114.0,217.21,2026,Tuned Random Forest
+83,Wriddhiman Saha,233.8,10.0,120.7,31.18,63.8,27.2,5.6,1.4,0.0,0.0,216.91,2026,Tuned Random Forest
+84,KA Pollard,219.0,12.0,149.13,32.87,57.33,12.33,15.67,0.67,0.0,0.0,216.89,2026,Tuned Random Forest
+85,Steven Smith,231.5,10.5,121.9,24.62,54.0,22.5,5.5,1.5,0.0,0.0,215.09,2026,Tuned Random Forest
+86,RV Uthappa,180.33,9.0,130.3,22.0,64.0,15.33,8.67,1.0,0.0,0.0,210.24,2026,Tuned Random Forest
+87,Prithvi Shaw,258.8,10.8,147.38,23.15,65.8,33.2,8.4,2.0,0.0,0.0,206.94,2026,Tuned Random Forest
+88,Eoin Morgan,275.5,14.5,117.05,26.44,57.5,20.0,15.0,0.5,0.0,0.0,206.62,2026,Tuned Random Forest
+89,Aaron Finch,177.0,8.5,126.1,19.76,55.0,19.0,5.5,1.0,0.0,0.0,203.94,2026,Tuned Random Forest
+90,V Nigam,142.0,8.0,179.7,20.29,39.0,15.0,8.0,0.0,0.0,142.0,201.97,2026,Tuned Random Forest
+91,Jake Fraser-McGurk,192.5,7.5,169.9,22.92,61.0,19.5,15.0,2.0,0.0,55.0,199.15,2026,Tuned Random Forest
+92,R K Tewatia,166.83,10.67,143.07,24.57,36.67,13.17,8.5,0.17,0.0,99.0,197.34,2026,Tuned Random Forest
+93,Suresh Raina,160.0,11.0,125.0,17.78,54.0,13.0,9.0,1.0,0.0,0.0,196.79,2026,Tuned Random Forest
+94,Abdul Samad,123.5,8.5,138.72,18.17,30.67,7.5,8.33,0.0,0.0,164.0,196.06,2026,Tuned Random Forest
+95,K H Pandya,144.17,11.33,121.38,19.11,46.67,11.17,5.0,0.17,0.0,109.0,193.9,2026,Tuned Random Forest
+96,Rahmanullah Gurbaz,121.0,6.0,135.97,23.38,51.67,11.33,7.33,0.67,0.0,74.0,192.54,2026,Tuned Random Forest
+97,Shai Hope,183.0,9.0,150.0,22.88,41.0,12.0,12.0,0.0,0.0,0.0,192.19,2026,Tuned Random Forest
+98,PBB Rajapaksa,138.5,6.5,137.1,23.28,46.5,11.0,7.5,0.5,0.0,0.0,190.58,2026,Tuned Random Forest
+99,E Lewis,112.0,5.0,146.4,27.26,56.5,13.0,5.0,1.0,0.0,0.0,188.94,2026,Tuned Random Forest
+100,Deepak Jagbir Hooda,162.0,9.33,119.35,21.78,45.67,11.83,6.33,1.17,0.0,31.0,183.51,2026,Tuned Random Forest
+101,Kane Williamson,206.5,8.75,110.12,29.76,54.0,18.75,5.0,1.5,0.0,0.0,179.91,2026,Tuned Random Forest
+102,Matt Short,117.0,6.0,127.2,19.5,36.0,15.0,4.0,0.0,0.0,0.0,173.1,2026,Tuned Random Forest
+103,Daryl Mitchell,175.5,7.5,108.8,20.48,40.0,14.0,5.0,1.0,0.0,0.0,170.41,2026,Tuned Random Forest
+104,Sam Billings,169.0,8.0,122.5,24.14,36.0,9.0,10.0,0.0,0.0,0.0,165.07,2026,Tuned Random Forest
+105,Karun Nair,76.67,4.33,125.13,13.58,39.0,9.0,3.33,0.33,0.0,198.0,162.6,2026,Tuned Random Forest
+106,M Shahrukh Khan,146.4,9.6,151.36,21.77,45.8,9.2,10.0,0.4,0.0,179.0,160.69,2026,Tuned Random Forest
+107,Moeen Ali,145.0,7.5,108.8,16.62,41.0,12.5,7.33,0.5,0.0,5.0,157.25,2026,Tuned Random Forest
+108,Matthew Wade,80.5,5.5,90.25,9.85,19.5,11.5,1.0,0.0,0.0,0.0,155.49,2026,Tuned Random Forest
+109,R Powell,91.25,5.75,119.75,11.81,25.75,5.5,7.0,0.25,0.0,5.0,154.26,2026,Tuned Random Forest
+110,Shahbaz Ahmed,90.83,6.33,113.67,12.97,24.67,4.83,4.17,0.17,0.0,9.0,154.23,2026,Tuned Random Forest
+111,Aman Hakim Khan,57.5,5.0,137.8,8.61,28.0,4.0,3.0,0.5,0.0,0.0,149.03,2026,Tuned Random Forest
+112,Dewald Brevis,151.67,5.33,146.47,27.83,50.67,10.0,11.0,0.67,0.0,225.0,143.91,2026,Tuned Random Forest
+113,PHKD Mendis,92.0,5.0,133.3,30.67,32.0,7.0,2.0,0.0,0.0,92.0,141.92,2026,Tuned Random Forest
+114,MS Washington Sundar,72.67,5.17,99.23,13.27,25.5,6.17,2.0,0.0,0.0,133.0,140.67,2026,Tuned Random Forest
+115,Ben Stokes,100.0,3.67,83.2,16.07,38.33,12.67,2.33,0.33,0.33,0.0,140.02,2026,Tuned Random Forest
+116,OF Smith,51.0,6.0,115.9,12.75,25.0,1.0,5.0,0.0,0.0,0.0,135.62,2026,Tuned Random Forest
+117,Chris Morris,50.5,6.0,149.3,10.95,30.5,2.0,4.0,0.0,0.0,0.0,134.09,2026,Tuned Random Forest
+118,Josh Philippe,78.0,5.0,101.3,15.6,33.0,9.0,1.0,0.0,0.0,0.0,130.32,2026,Tuned Random Forest
+119,Anuj Rawat,79.5,5.25,91.2,17.74,35.75,6.5,3.5,0.25,0.0,0.0,128.57,2026,Tuned Random Forest
+120,Anderson Cummins,107.0,7.8,173.42,19.29,46.4,6.8,7.4,0.6,0.0,97.0,127.77,2026,Tuned Random Forest
+121,Rashid Khan,80.17,8.17,157.85,16.56,33.0,6.0,5.33,0.17,0.0,40.0,126.84,2026,Tuned Random Forest
+122,Gurkeerat Singh,71.0,5.0,88.8,71.0,21.0,8.0,0.0,0.0,0.0,0.0,126.84,2026,Tuned Random Forest
+123,Abhinav Manohar,73.0,5.0,109.38,13.42,34.0,5.75,3.5,0.0,0.0,61.0,126.23,2026,Tuned Random Forest
+124,Shakib Al Hasan,47.0,6.0,97.9,9.4,26.0,3.0,1.0,0.0,0.0,0.0,123.16,2026,Tuned Random Forest
+125,Jason Holder,55.25,5.5,120.88,14.86,25.0,2.25,4.0,0.0,0.0,0.0,123.03,2026,Tuned Random Forest
+126,Ravi Ashwin,76.33,7.17,118.78,14.48,26.0,5.33,3.17,0.17,0.0,33.0,122.22,2026,Tuned Random Forest
+127,Sameer Rizvi,86.0,4.5,135.9,26.54,39.5,7.5,4.5,0.5,0.0,121.0,119.29,2026,Tuned Random Forest
+128,SK Rasheed,71.0,5.0,112.7,14.2,27.0,9.0,2.0,0.0,0.0,71.0,117.24,2026,Tuned Random Forest
+129,Priyam Garg,68.25,4.75,113.05,15.42,33.5,4.0,2.25,0.25,0.0,0.0,114.88,2026,Tuned Random Forest
+130,Shubham Dubey,69.5,5.5,167.15,18.85,29.5,4.5,5.0,0.0,0.0,106.0,111.27,2026,Tuned Random Forest
+131,Vivrant Sharma,69.0,1.0,146.8,69.0,69.0,9.0,2.0,1.0,0.0,0.0,107.76,2026,Tuned Random Forest
+132,Ramandeep Singh,72.33,6.67,149.47,16.47,23.67,3.0,5.67,0.0,0.0,47.0,107.39,2026,Tuned Random Forest
+133,Jofra Archer,60.0,6.33,135.13,11.11,20.0,2.67,4.67,0.0,0.0,63.0,107.05,2026,Tuned Random Forest
+134,Arshad Khan,41.33,3.67,131.6,16.06,31.0,2.0,3.0,0.33,0.0,23.0,106.9,2026,Tuned Random Forest
+135,Saurabh Tiwary,109.0,4.5,123.7,29.46,46.0,9.0,2.5,0.5,0.0,0.0,106.67,2026,Tuned Random Forest
+136,M K Lomror,99.8,6.4,142.4,20.14,43.8,6.0,6.0,0.2,0.0,0.0,106.02,2026,Tuned Random Forest
+137,Lalit Yadav,76.25,5.25,99.68,18.8,28.75,6.75,1.75,0.0,0.0,0.0,104.61,2026,Tuned Random Forest
+138,Vijay Shankar,112.67,6.0,111.98,22.36,40.33,9.0,4.0,0.83,0.0,118.0,102.8,2026,Tuned Random Forest
+139,Sikandar Raza,91.0,4.5,127.5,22.34,42.5,6.0,4.0,0.5,0.0,0.0,101.53,2026,Tuned Random Forest
+140,K S Bharat,99.5,4.0,118.35,21.1,43.0,6.0,4.0,0.5,0.0,0.0,100.16,2026,Tuned Random Forest
+141,Xavier Bartlett,11.0,1.0,73.3,11.0,11.0,1.0,0.0,0.0,0.0,11.0,100.07,2026,Tuned Random Forest
+142,Mandeep Singh,44.25,3.5,98.05,11.84,27.75,4.0,1.25,0.25,0.0,0.0,98.91,2026,Tuned Random Forest
+143,Vishnu Vinod,37.0,3.0,119.4,12.33,30.0,2.0,2.0,0.0,0.0,0.0,98.75,2026,Tuned Random Forest
+144,Pravin Dubey,11.5,1.0,66.9,11.5,11.5,1.0,0.0,0.0,0.0,0.0,94.35,2026,Tuned Random Forest
+145,Urvil Patel,68.0,3.0,212.5,22.67,37.0,5.0,6.0,0.0,0.0,68.0,93.95,2026,Tuned Random Forest
+146,JG Bethell,67.0,2.0,171.8,33.5,55.0,9.0,3.0,1.0,0.0,67.0,91.83,2026,Tuned Random Forest
+147,T Kohler-Cadmore,48.0,3.0,88.9,16.0,20.0,7.0,1.0,0.0,0.0,0.0,91.62,2026,Tuned Random Forest
+148,S N Khan,44.25,3.5,83.78,15.02,20.0,4.5,0.75,0.0,0.0,0.0,91.31,2026,Tuned Random Forest
+149,Dwaine Pretorius,44.0,5.0,157.1,11.0,22.0,3.0,3.0,0.0,0.0,0.0,91.05,2026,Tuned Random Forest
+150,Virat Singh,15.0,2.0,57.7,7.5,11.0,1.0,0.0,0.0,0.0,0.0,89.87,2026,Tuned Random Forest
+151,Atharva Taide,86.67,3.33,148.33,24.83,41.67,10.0,2.67,0.67,0.0,13.0,89.38,2026,Tuned Random Forest
+152,R Shepherd,46.25,3.0,176.15,20.71,29.5,3.0,4.25,0.25,0.0,70.0,87.13,2026,Tuned Random Forest
+153,YV Dhull,16.0,3.0,69.6,5.33,13.0,1.0,0.0,0.0,0.0,0.0,81.41,2026,Tuned Random Forest
+154,Chris Lynn,49.0,1.0,140.0,49.0,49.0,4.0,3.0,0.0,0.0,0.0,81.38,2026,Tuned Random Forest
+155,TL Seifert,13.0,1.5,88.15,7.0,11.5,2.0,0.0,0.0,0.0,0.0,80.66,2026,Tuned Random Forest
+156,Prerak Mankad,48.5,2.5,264.6,17.5,34.0,6.5,1.0,0.5,0.0,0.0,78.69,2026,Tuned Random Forest
+157,Harshit Rana,19.67,3.33,69.17,4.47,12.0,1.67,1.0,0.0,0.0,57.0,75.68,2026,Tuned Random Forest
+158,Glenn Phillips,32.5,4.0,128.05,10.4,19.5,1.5,3.0,0.0,0.0,0.0,75.35,2026,Tuned Random Forest
+159,K M Jadhav,43.0,3.67,106.57,15.47,19.0,3.33,0.67,0.0,0.0,0.0,75.19,2026,Tuned Random Forest
+160,Gowtham K,34.33,3.33,106.83,19.08,15.0,1.67,2.33,0.0,0.0,0.0,74.79,2026,Tuned Random Forest
+161,Arjun Tendulkar,13.0,1.0,144.4,13.0,13.0,0.0,1.0,0.0,0.0,0.0,72.93,2026,Tuned Random Forest
+162,N Jagadeesan,54.0,3.33,110.6,23.78,36.0,7.0,0.67,0.0,0.0,0.0,72.89,2026,Tuned Random Forest
+163,Shardul Thakur,48.17,5.5,121.65,11.77,22.33,4.17,2.0,0.17,0.0,18.0,72.59,2026,Tuned Random Forest
+164,Umran Malik,11.5,2.5,143.75,11.5,11.0,0.5,1.0,0.0,0.0,0.0,71.47,2026,Tuned Random Forest
+165,Harpreet Singh Bhatia,51.5,2.5,104.1,19.42,27.5,5.0,1.5,0.0,0.0,0.0,71.43,2026,Tuned Random Forest
+166,Dawid Malan,26.0,1.0,100.0,26.0,26.0,1.0,1.0,0.0,0.0,0.0,71.01,2026,Tuned Random Forest
+167,Suyash S Prabhudessai,42.0,3.33,122.53,15.38,25.67,3.67,1.33,0.0,0.0,0.0,70.02,2026,Tuned Random Forest
+168,Tom Curran,52.0,3.0,128.7,52.0,37.5,3.5,1.5,0.5,0.0,0.0,69.74,2026,Tuned Random Forest
+169,Jayant Yadav,34.0,2.0,130.8,17.0,23.0,2.0,1.0,0.0,0.0,0.0,69.2,2026,Tuned Random Forest
+170,MG Bracewell,58.0,4.0,123.4,29.0,26.0,6.0,1.0,0.0,0.0,0.0,69.03,2026,Tuned Random Forest
+171,Corbin Bosch,47.0,2.0,146.9,23.5,27.0,3.0,3.0,0.0,0.0,47.0,68.81,2026,Tuned Random Forest
+172,Anmolpreet Singh,34.75,2.25,106.4,12.81,16.25,4.75,0.75,0.0,0.0,0.0,68.09,2026,Tuned Random Forest
+173,Moises Henriques,31.0,4.0,96.9,10.33,14.0,0.0,1.0,0.0,0.0,0.0,66.16,2026,Tuned Random Forest
+174,Matthew Breetzke,14.0,1.0,116.7,14.0,14.0,1.0,1.0,0.0,0.0,14.0,65.92,2026,Tuned Random Forest
+175,Adam Milne,16.0,3.0,94.1,8.0,15.0,0.0,1.0,0.0,0.0,0.0,63.49,2026,Tuned Random Forest
+176,Murali Vijay,32.0,3.0,74.4,10.67,21.0,4.0,0.0,0.0,0.0,0.0,62.51,2026,Tuned Random Forest
+177,Akeal Hosein,16.0,1.0,160.0,16.0,16.0,1.0,1.0,0.0,0.0,0.0,61.58,2026,Tuned Random Forest
+178,Kusal Mendis,20.0,1.0,200.0,20.0,20.0,1.0,2.0,0.0,0.0,20.0,59.66,2026,Tuned Random Forest
+179,Azmatullah Omarzai,49.5,4.5,133.15,12.38,19.0,4.0,2.5,0.0,0.0,57.0,59.13,2026,Tuned Random Forest
+180,Gulbadeen Naib,19.0,1.0,126.7,19.0,19.0,1.0,1.0,0.0,0.0,0.0,58.89,2026,Tuned Random Forest
+181,Sediqullah Atal,22.0,1.0,137.5,22.0,22.0,0.0,2.0,0.0,0.0,22.0,57.77,2026,Tuned Random Forest
+182,Alex Carey,32.0,3.0,110.3,16.0,14.0,0.0,1.0,0.0,0.0,0.0,57.33,2026,Tuned Random Forest
+183,Imran Tahir,13.0,1.0,130.0,13.0,13.0,2.0,0.0,0.0,0.0,0.0,56.81,2026,Tuned Random Forest
+184,Harpreet Brar,44.8,5.0,109.72,25.45,18.4,3.4,1.8,0.0,0.0,11.0,55.53,2026,Tuned Random Forest
+185,Amit Mishra,19.0,1.0,63.3,19.0,19.0,2.0,0.0,0.0,0.0,0.0,54.9,2026,Tuned Random Forest
+186,HR Shokeen,33.0,2.5,112.45,22.25,21.5,4.5,0.0,0.0,0.0,0.0,54.83,2026,Tuned Random Forest
+187,Craig Overton,15.0,2.0,214.3,15.0,11.0,1.0,1.0,0.0,0.0,15.0,54.18,2026,Tuned Random Forest
+188,Tanush Kotian,24.0,1.0,77.4,24.0,24.0,3.0,0.0,0.0,0.0,0.0,53.93,2026,Tuned Random Forest
+189,Kyle Jamieson,32.5,4.5,59.1,16.25,8.0,2.5,1.5,0.0,0.0,0.0,52.44,2026,Tuned Random Forest
+190,Bhuvneshwar Kumar,22.83,5.0,71.72,7.61,11.67,2.33,0.0,0.0,0.0,14.0,52.22,2026,Tuned Random Forest
+191,Chris Jordan,19.5,2.5,108.35,9.92,13.25,0.75,0.75,0.0,0.0,0.0,50.36,2026,Tuned Random Forest
+192,David Wiese,21.0,3.0,190.9,21.0,12.0,0.0,3.0,0.0,0.0,0.0,49.67,2026,Tuned Random Forest
+193,B Indrajith,21.0,3.0,70.0,7.0,15.0,2.0,0.0,0.0,0.0,0.0,49.16,2026,Tuned Random Forest
+194,Dasun Shanaka,26.0,3.0,100.0,8.67,17.0,2.0,1.0,0.0,0.0,0.0,46.47,2026,Tuned Random Forest
+195,Ashton Turner,21.0,2.0,116.7,10.5,16.0,0.0,2.0,0.0,0.0,0.0,45.97,2026,Tuned Random Forest
+196,Marco Jansen,28.2,4.0,95.36,11.1,15.2,1.6,1.2,0.0,0.0,75.0,45.15,2026,Tuned Random Forest
+197,R Shreyas Gopal,17.67,2.67,121.17,8.42,13.0,1.67,0.33,0.0,0.0,0.0,44.69,2026,Tuned Random Forest
+198,Chris Woakes,15.0,1.0,136.4,15.0,15.0,2.0,0.0,0.0,0.0,0.0,42.55,2026,Tuned Random Forest
+199,Kuldeep Singh Yadav,31.4,5.8,89.18,17.82,16.0,2.8,0.6,0.0,0.0,18.0,42.42,2026,Tuned Random Forest
+200,H V Patel,27.17,4.33,95.88,7.97,14.67,2.17,1.0,0.0,0.0,21.0,41.57,2026,Tuned Random Forest
+201,Mayank Dagar,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.46,2026,Tuned Random Forest
+202,Musheer Khan,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.46,2026,Tuned Random Forest
+203,MJ Owen,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.46,2026,Tuned Random Forest
+204,KS Rathore,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.46,2026,Tuned Random Forest
+205,Sheldon Cottrell,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.46,2026,Tuned Random Forest
+206,R Sanjay Yadav,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.46,2026,Tuned Random Forest
+207,Asif K M,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.46,2026,Tuned Random Forest
+208,Riley Meredith,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.46,2026,Tuned Random Forest
+209,Dushmantha Chameera,26.5,5.0,112.5,10.38,12.5,1.5,1.5,0.0,0.0,10.0,38.06,2026,Tuned Random Forest
+210,James Pattinson,15.0,2.0,115.4,15.0,11.0,2.0,0.0,0.0,0.0,0.0,36.59,2026,Tuned Random Forest
+211,Kagiso Rabada,24.33,3.83,116.33,9.03,11.17,1.83,1.17,0.0,0.0,9.0,36.07,2026,Tuned Random Forest
+212,Kwena Maphaka,8.0,1.0,400.0,8.0,8.0,2.0,0.0,0.0,0.0,8.0,35.36,2026,Tuned Random Forest
+213,Mohammad Nabi,26.67,3.0,140.13,10.36,17.0,2.33,1.33,0.0,0.0,0.0,34.33,2026,Tuned Random Forest
+214,DJ Willey,26.5,2.5,84.7,22.0,19.0,3.5,0.0,0.0,0.0,0.0,34.19,2026,Tuned Random Forest
+215,Adil Rashid,22.0,2.0,137.5,11.0,18.0,2.0,1.0,0.0,0.0,0.0,33.44,2026,Tuned Random Forest
+216,Daniel Christian,14.0,7.0,58.3,2.33,9.0,1.0,0.0,0.0,0.0,0.0,32.94,2026,Tuned Random Forest
+217,Dhawal Kulkarni,3.0,1.0,150.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,32.62,2026,Tuned Random Forest
+218,L Wood,9.0,1.0,300.0,9.0,9.0,0.0,1.0,0.0,0.0,0.0,32.54,2026,Tuned Random Forest
+219,Lockie Ferguson,14.2,1.4,187.38,13.7,10.4,1.4,0.4,0.0,0.0,4.0,32.53,2026,Tuned Random Forest
+220,OC McCoy,8.0,1.0,160.0,8.0,8.0,0.0,1.0,0.0,0.0,0.0,32.21,2026,Tuned Random Forest
+221,Rassie van der Dussen,22.0,3.0,91.7,11.0,12.0,2.0,0.0,0.0,0.0,0.0,31.73,2026,Tuned Random Forest
+222,DS Rathi,1.0,1.0,33.3,1.0,1.0,0.0,0.0,0.0,0.0,1.0,31.42,2026,Tuned Random Forest
+223,N S Naik,1.0,1.0,33.3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,31.37,2026,Tuned Random Forest
+224,R R Dhawan,28.5,3.0,129.6,14.25,20.0,2.5,1.5,0.0,0.0,0.0,31.1,2026,Tuned Random Forest
+225,Shams Mulani,1.0,1.0,100.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,30.82,2026,Tuned Random Forest
+226,Abdul Basith,1.0,1.0,100.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,30.82,2026,Tuned Random Forest
+227,Manoj Bhandage,1.0,1.0,25.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,30.79,2026,Tuned Random Forest
+228,PVSN Raju,1.0,1.0,100.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,30.75,2026,Tuned Random Forest
+229,Mujeeb Ur Rahman,1.0,1.0,66.65,1.0,1.0,0.0,0.0,0.0,0.0,0.0,29.98,2026,Tuned Random Forest
+230,Dale Steyn,1.0,1.0,50.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,29.93,2026,Tuned Random Forest
+231,Keshav Maharaj,1.0,1.0,50.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,29.93,2026,Tuned Random Forest
+232,MJ Suthar,1.0,1.0,50.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,29.93,2026,Tuned Random Forest
+233,LB Williams,1.0,1.0,50.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,29.93,2026,Tuned Random Forest
+234,Mohit Rathee,1.0,1.0,50.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,29.93,2026,Tuned Random Forest
+235,Shreevats Goswami,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29.71,2026,Tuned Random Forest
+236,Tymal Mills,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29.71,2026,Tuned Random Forest
+237,Dwayne Bravo,25.67,3.67,157.87,12.83,14.0,1.33,1.67,0.0,0.0,0.0,29.53,2026,Tuned Random Forest
+238,D L Chahar,11.5,2.25,89.08,6.88,8.75,0.75,0.5,0.0,0.0,37.0,29.14,2026,Tuned Random Forest
+239,V Viyaskanth,7.0,1.0,140.0,7.0,7.0,0.0,0.0,0.0,0.0,0.0,29.04,2026,Tuned Random Forest
+240,Sean Abbott,7.0,1.0,140.0,7.0,7.0,0.0,1.0,0.0,0.0,0.0,28.88,2026,Tuned Random Forest
+241,AA Kulkarni,9.0,2.0,112.5,4.5,9.0,2.0,0.0,0.0,0.0,0.0,28.83,2026,Tuned Random Forest
+242,S K K Ahmed,0.5,1.25,25.0,0.5,0.5,0.0,0.0,0.0,0.0,1.0,28.53,2026,Tuned Random Forest
+243,Mitchell Santner,19.5,4.25,83.78,9.42,10.25,1.5,0.75,0.0,0.0,40.0,28.52,2026,Tuned Random Forest
+244,Akash Deep,6.25,1.25,153.12,6.25,6.25,0.5,0.5,0.0,0.0,6.0,28.41,2026,Tuned Random Forest
+245,Mayank Markande,21.0,3.0,161.5,21.0,18.0,2.0,1.0,0.0,0.0,0.0,28.05,2026,Tuned Random Forest
+246,Joe Root,10.0,1.0,66.7,10.0,10.0,1.0,0.0,0.0,0.0,0.0,27.63,2026,Tuned Random Forest
+247,RA Bawa,9.5,1.5,139.3,6.75,9.5,0.5,0.0,0.0,0.0,8.0,27.11,2026,Tuned Random Forest
+248,K Yadav,0.0,1.0,0.0,13.23,0.0,0.0,0.0,0.0,0.0,0.0,26.92,2026,Tuned Random Forest
+249,Kuldeep Sen,0.0,1.0,0.0,13.23,0.0,0.0,0.0,0.0,0.0,0.0,26.92,2026,Tuned Random Forest
+250,Lungi Ngidi,0.0,1.0,0.0,13.23,0.0,0.0,0.0,0.0,0.0,0.0,26.92,2026,Tuned Random Forest
+251,I Udana,15.0,4.0,136.4,5.0,10.0,1.0,1.0,0.0,0.0,0.0,26.58,2026,Tuned Random Forest
+252,Suchith J,8.0,1.5,129.15,7.5,8.0,1.0,0.5,0.0,0.0,0.0,26.22,2026,Tuned Random Forest
+253,Mohit Sharma,1.0,1.67,15.53,1.0,1.0,0.0,0.0,0.0,0.0,1.0,26.16,2026,Tuned Random Forest
+254,Karan Sharma,10.2,1.8,104.76,4.57,7.2,0.6,0.6,0.0,0.0,1.0,26.14,2026,Tuned Random Forest
+255,Liton Das,4.0,1.0,100.0,4.0,4.0,1.0,0.0,0.0,0.0,0.0,26.07,2026,Tuned Random Forest
+256,Wiaan Mulder,9.0,1.0,81.8,9.0,9.0,1.0,0.0,0.0,0.0,9.0,25.42,2026,Tuned Random Forest
+257,Jaydev Unadkat,28.4,3.0,118.2,13.23,13.8,2.0,1.2,0.0,0.0,0.0,25.11,2026,Tuned Random Forest
+258,Abhijeet Tomar,4.0,1.0,50.0,4.0,4.0,1.0,0.0,0.0,0.0,0.0,25.05,2026,Tuned Random Forest
+259,Mark Wood,11.0,2.0,220.0,11.0,10.0,1.0,1.0,0.0,0.0,0.0,24.89,2026,Tuned Random Forest
+260,Rasikh Salam,17.5,2.5,105.0,7.0,8.5,2.5,0.0,0.0,0.0,0.0,24.82,2026,Tuned Random Forest
+261,Ishant Sharma,1.0,1.5,57.15,1.0,1.0,0.0,0.0,0.0,0.0,0.0,24.77,2026,Tuned Random Forest
+262,Manan Vohra,23.67,2.0,123.77,13.17,14.33,2.33,1.33,0.0,0.0,0.0,24.74,2026,Tuned Random Forest
+263,A Kamboj,8.0,3.0,108.35,4.5,3.5,1.0,0.0,0.0,0.0,14.0,24.58,2026,Tuned Random Forest
+264,Gerald Coetzee,15.5,3.5,109.05,6.0,10.0,1.0,1.0,0.0,0.0,17.0,24.57,2026,Tuned Random Forest
+265,Wanindu Hasaranga,20.25,4.75,79.08,4.81,8.75,1.75,0.25,0.0,0.0,9.0,24.38,2026,Tuned Random Forest
+266,Jhye Richardson,8.5,1.5,81.25,4.75,8.5,1.0,0.0,0.0,0.0,0.0,24.3,2026,Tuned Random Forest
+267,Ripal Patel,26.67,2.33,135.53,15.78,15.67,2.0,0.67,0.0,0.0,0.0,24.25,2026,Tuned Random Forest
+268,Richard Gleeson,2.0,1.0,100.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,24.02,2026,Tuned Random Forest
+269,Saurav Chauhan,18.0,3.0,120.0,6.0,9.0,1.0,1.0,0.0,0.0,0.0,23.82,2026,Tuned Random Forest
+270,Varun Aaron,1.0,2.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,23.8,2026,Tuned Random Forest
+271,R D Chahar,22.8,3.4,79.3,7.5,10.2,2.2,1.0,0.0,0.0,0.0,23.67,2026,Tuned Random Forest
+272,Sachin Baby,7.0,1.0,41.2,7.0,7.0,0.0,0.0,0.0,0.0,0.0,23.61,2026,Tuned Random Forest
+273,M Tiwari,3.0,1.0,75.0,3.0,3.0,0.0,0.0,0.0,0.0,3.0,23.38,2026,Tuned Random Forest
+274,Shivam Singh,2.0,1.0,66.7,2.0,2.0,0.0,0.0,0.0,0.0,0.0,23.03,2026,Tuned Random Forest
+275,Sumit Kumar,18.0,3.0,75.0,9.0,9.0,2.0,1.0,0.0,0.0,0.0,23.02,2026,Tuned Random Forest
+276,Pradeep Sangwan,2.0,1.0,40.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,23.01,2026,Tuned Random Forest
+277,Wayne Parnell,2.0,1.0,40.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,23.01,2026,Tuned Random Forest
+278,BR Sharath,2.0,1.0,40.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,23.01,2026,Tuned Random Forest
+279,Nathan Coulter-Nile,10.0,1.67,98.9,9.33,9.33,1.33,0.0,0.0,0.0,0.0,22.99,2026,Tuned Random Forest
+280,Tabraiz Shamsi,2.0,1.0,50.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,22.9,2026,Tuned Random Forest
+281,Fazalhaq Farooqi,1.67,1.0,48.33,1.67,1.67,0.0,0.0,0.0,0.0,2.0,22.86,2026,Tuned Random Forest
+282,Andrew Tye,6.0,1.0,100.0,6.0,6.0,0.0,1.0,0.0,0.0,0.0,22.81,2026,Tuned Random Forest
+283,Swapnil K Singh,19.5,3.0,113.1,10.25,8.5,1.5,1.5,0.0,0.0,0.0,22.78,2026,Tuned Random Forest
+284,RJW Topley,3.0,1.0,50.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,22.69,2026,Tuned Random Forest
+285,Navdeep Saini,10.33,1.67,83.33,10.33,5.33,1.0,0.0,0.0,0.0,0.0,22.47,2026,Tuned Random Forest
+286,Mohsin Khan,8.33,1.67,114.6,8.33,5.0,0.67,0.33,0.0,0.0,0.0,22.27,2026,Tuned Random Forest
+287,Akash Madhwal,4.0,1.0,62.2,4.0,4.0,0.0,0.0,0.0,0.0,4.0,22.22,2026,Tuned Random Forest
+288,Sheldon Jackson,23.0,5.0,88.5,5.75,8.0,0.0,1.0,0.0,0.0,0.0,22.08,2026,Tuned Random Forest
+289,R Sai Kishore,9.0,2.0,133.35,7.34,8.0,0.0,1.0,0.0,0.0,5.0,22.03,2026,Tuned Random Forest
+290,D G Nalkande,6.0,1.0,54.55,6.0,6.0,0.0,0.5,0.0,0.0,0.0,21.96,2026,Tuned Random Forest
+291,Yash Dayal,2.0,2.0,25.0,1.0,1.5,0.0,0.0,0.0,0.0,4.0,21.42,2026,Tuned Random Forest
+292,Shivam Mavi,12.67,2.67,79.77,6.17,10.33,1.0,0.67,0.0,0.0,0.0,21.33,2026,Tuned Random Forest
+293,Anrich Nortje,12.25,3.25,77.75,5.58,7.75,1.5,0.0,0.0,0.0,0.0,20.73,2026,Tuned Random Forest
+294,Aavesh Khan,11.6,2.2,142.18,14.5,8.6,1.0,0.8,0.0,0.0,21.0,20.61,2026,Tuned Random Forest
+295,Fabian Allen,7.0,1.5,82.15,7.0,7.0,0.5,0.0,0.0,0.0,0.0,20.53,2026,Tuned Random Forest
+296,Piyush Chawla,13.33,3.67,71.2,5.42,9.33,0.67,0.67,0.0,0.0,0.0,20.48,2026,Tuned Random Forest
+297,M Prasidh Krishna,2.67,1.67,33.33,2.67,2.0,0.0,0.0,0.0,0.0,0.0,20.38,2026,Tuned Random Forest
+298,Naveen-ul-Haq,9.0,2.0,63.1,5.0,7.5,1.0,0.0,0.0,0.0,0.0,20.37,2026,Tuned Random Forest
+299,Daniel Sams,14.67,4.33,68.53,3.81,6.0,0.33,1.0,0.0,0.0,0.0,20.29,2026,Tuned Random Forest
+300,Anukul Roy,6.5,1.75,55.28,2.67,4.0,0.75,0.0,0.0,0.0,0.0,20.23,2026,Tuned Random Forest
+301,Vaibhav G Arora,2.25,2.25,72.12,1.42,1.25,0.0,0.0,0.0,0.0,0.0,20.14,2026,Tuned Random Forest
+302,Tom Banton,18.0,2.0,90.0,9.0,10.0,1.0,1.0,0.0,0.0,0.0,20.13,2026,Tuned Random Forest
+303,Donovan Ferreira,4.5,1.5,53.0,2.5,4.0,0.0,0.0,0.0,0.0,1.0,20.12,2026,Tuned Random Forest
+304,Yudhvir Singh,11.0,2.0,100.0,5.5,7.5,0.5,1.0,0.0,0.0,0.0,20.12,2026,Tuned Random Forest
+305,Kumar Kartikeya Singh,4.0,1.33,68.57,3.5,3.67,0.33,0.0,0.0,0.0,3.0,19.97,2026,Tuned Random Forest
+306,Mustafizur Rahman,3.0,1.5,54.28,3.0,3.0,0.0,0.25,0.0,0.0,0.0,19.95,2026,Tuned Random Forest
+307,James Neesham,16.67,2.33,73.47,8.33,9.0,1.0,0.33,0.0,0.0,0.0,19.88,2026,Tuned Random Forest
+308,Shahbaz Nadeem,3.5,1.5,43.75,3.5,2.5,0.5,0.0,0.0,0.0,0.0,19.88,2026,Tuned Random Forest
+309,Adam Zampa,10.0,3.0,62.5,3.33,7.0,0.0,0.0,0.0,0.0,0.0,19.87,2026,Tuned Random Forest
+310,Umesh Yadav,21.5,3.75,80.78,8.81,9.25,1.25,1.25,0.0,0.0,0.0,19.86,2026,Tuned Random Forest
+311,Kumar Kushagra,3.0,3.0,42.9,1.0,2.0,0.0,0.0,0.0,0.0,0.0,19.84,2026,Tuned Random Forest
+312,Sanvir Singh,12.5,2.5,119.45,12.5,7.5,1.0,0.5,0.0,0.0,0.0,19.64,2026,Tuned Random Forest
+313,KAMLESH NAGARKOTI,11.0,3.5,35.5,3.66,4.0,0.5,0.0,0.0,0.0,0.0,19.2,2026,Tuned Random Forest
+314,Ricky Bhui,3.0,2.0,33.3,1.5,3.0,0.0,0.0,0.0,0.0,0.0,19.09,2026,Tuned Random Forest
+315,Yuzvendra Chahal,5.33,1.33,44.27,5.33,4.67,0.0,0.0,0.0,0.0,0.0,19.03,2026,Tuned Random Forest
+316,Nathan Ellis,6.33,1.67,42.27,6.17,4.33,0.0,0.33,0.0,0.0,0.0,18.93,2026,Tuned Random Forest
+317,Siddharth Kaul,8.0,2.0,100.0,8.0,7.0,1.0,0.0,0.0,0.0,0.0,18.77,2026,Tuned Random Forest
+318,Ravi Bishnoi,7.5,2.67,50.88,4.5,4.5,0.33,0.33,0.0,0.0,13.0,18.59,2026,Tuned Random Forest
+319,Kartik Tyagi,4.33,2.0,77.8,3.17,3.33,0.33,0.0,0.0,0.0,0.0,18.55,2026,Tuned Random Forest
+320,Chetan Sakariya,10.0,3.5,65.35,3.6,5.5,1.5,0.0,0.0,0.0,0.0,18.11,2026,Tuned Random Forest
+321,Trent Boult,12.17,3.17,71.9,7.67,7.67,0.83,0.33,0.0,0.0,2.0,18.08,2026,Tuned Random Forest
+322,Mohammed Siraj,13.83,2.5,94.03,11.33,8.67,1.33,0.5,0.0,0.0,3.0,17.95,2026,Tuned Random Forest
+323,Ankit Rajpoot,9.0,2.0,90.0,9.0,7.0,0.0,1.0,0.0,0.0,0.0,17.85,2026,Tuned Random Forest
+324,Vijaykumar Vyshak,7.0,2.0,88.85,7.0,7.0,0.0,0.5,0.0,0.0,0.0,17.74,2026,Tuned Random Forest
+325,GHS Garton,2.0,2.0,50.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,17.5,2026,Tuned Random Forest
+326,Harbhajan Singh,4.0,2.0,100.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,17.49,2026,Tuned Random Forest
+327,Mitchell Starc,7.5,5.0,70.9,3.25,4.0,0.5,0.0,0.0,0.0,6.0,17.49,2026,Tuned Random Forest
+328,Suryansh Shedge,7.0,3.0,63.6,2.33,4.0,0.0,0.0,0.0,0.0,7.0,17.31,2026,Tuned Random Forest
+329,R Minz,6.0,2.0,40.0,3.0,3.0,0.0,0.0,0.0,0.0,6.0,17.28,2026,Tuned Random Forest
+330,Arshdeep Singh,5.17,2.17,67.62,2.67,3.0,0.67,0.0,0.0,0.0,2.0,17.16,2026,Tuned Random Forest
+331,Thangarasu Natarajan,3.0,2.0,60.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,17.15,2026,Tuned Random Forest
+332,V Chakravarthy,5.2,2.2,58.9,4.2,4.2,0.4,0.0,0.0,0.0,1.0,17.03,2026,Tuned Random Forest
+333,Noor Ahmad,6.67,3.67,61.9,2.75,4.33,0.67,0.0,0.0,0.0,7.0,17.02,2026,Tuned Random Forest
+334,Tim Southee,2.5,3.0,38.35,1.75,2.0,0.0,0.0,0.0,0.0,0.0,16.95,2026,Tuned Random Forest
+335,SH Johnson,4.0,2.5,67.85,4.0,3.0,0.5,0.0,0.0,0.0,2.0,16.77,2026,Tuned Random Forest
+336,Mukesh Choudhary,6.0,2.0,100.0,6.0,4.0,1.0,0.0,0.0,0.0,0.0,16.74,2026,Tuned Random Forest
+337,Prince Yadav,5.0,2.0,50.0,5.0,4.0,0.0,0.0,0.0,0.0,5.0,16.55,2026,Tuned Random Forest
+338,Simarjeet Singh,5.0,3.0,65.2,4.25,3.0,0.0,0.0,0.0,0.0,3.0,16.42,2026,Tuned Random Forest
+339,Mukesh Kumar,5.0,2.5,55.55,5.0,4.5,0.0,0.0,0.0,0.0,0.0,16.4,2026,Tuned Random Forest
+340,Jason Behrendorff,6.0,2.0,66.7,6.0,3.0,0.0,0.0,0.0,0.0,0.0,16.05,2026,Tuned Random Forest
+341,Alzarri Joseph,6.0,2.0,64.85,6.0,5.5,0.5,0.0,0.0,0.0,0.0,16.02,2026,Tuned Random Forest
+342,Josh Hazlewood,6.33,2.33,39.73,9.5,2.67,0.33,0.0,0.0,0.0,0.0,15.9,2026,Tuned Random Forest
+343,M Theekshana,8.5,3.0,68.5,6.0,6.0,0.0,0.5,0.0,0.0,10.0,15.85,2026,Tuned Random Forest
+344,M Ashwin,10.33,2.33,82.73,5.17,6.33,0.67,0.33,0.0,0.0,0.0,15.61,2026,Tuned Random Forest
+345,Jasprit Bumrah,6.6,3.4,72.16,5.58,3.6,0.6,0.0,0.0,0.0,0.0,15.59,2026,Tuned Random Forest
+346,Tushar U Deshpande,7.0,2.0,65.62,12.25,5.75,0.5,0.25,0.0,0.0,7.0,15.35,2026,Tuned Random Forest
+347,Sandeep Sharma,7.0,2.5,86.9,5.5,6.25,0.5,0.0,0.0,0.0,6.0,15.25,2026,Tuned Random Forest
+348,Mohammed Shami,7.5,2.75,81.62,6.88,5.5,0.5,0.0,0.0,0.0,10.0,14.88,2026,Tuned Random Forest
